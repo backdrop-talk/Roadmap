@@ -5,7 +5,7 @@ The Backdrop Roadmap is an action plan for the project as a whole and discussion
 
 If you have some ideas, we want to hear them! Maybe you love where things are going and want to help out, this is a great place to get involved!
 
-**Where to start...**
+## Where to start...
 
 1) If you want to discuss things, head over to the **Discussions** tab.
 
